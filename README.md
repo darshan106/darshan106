@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="10" src="https://i.imgflip.com/65efzo.gif"  />
-<img width="5"/>
+<img src="https://i.imgflip.com/65efzo.gif" style="width:50px; height:50px;" />
 
 ###
 
