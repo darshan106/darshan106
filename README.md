@@ -35,12 +35,13 @@
 
 <br>
 
-<div align="center">
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan106&show_icons=true&locale=en&layout=compact" alt="Most Used Languages - darshan106" />
-    </p>
-
-    <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan106&" alt="GitHub Streak Stats - darshan106" />
-    </p>
-</div>
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan106&show_icons=true&locale=en&layout=compact" alt="Most Used Languages - darshan106" />
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan106&" alt="GitHub Streak Stats - darshan106" />
+        </td>
+    </tr>
+</table>
