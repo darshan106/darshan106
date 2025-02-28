@@ -79,7 +79,6 @@
     </a>
 </p>
 
-<br>
 <h3 align="left">Activities:</h3>
 <table>
     <tr>
