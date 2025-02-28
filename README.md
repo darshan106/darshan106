@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I read people so well that sometimes you know their intentions before they do—like a mind game you never signed up for.**
 
-### Blogs posts
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
