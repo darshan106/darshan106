@@ -7,24 +7,27 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    <ul>
-      <li>🔭 I’m currently working on <strong>SushiMan</strong></li>
-      <li>🌱 I’m currently learning <strong>Html, CSS, Javascript</strong></li>
-      <li>❤️ I'm Love to watch <strong>Anime</strong></li>
-      <li>📝 I regularly write articles on <a href="https://medium.com/@darshanx106">medium</a></li>
-      <li>💬 Ask me about <strong>Data Science</strong></li>
-      <li>📫 How to reach me <strong>ddarshan1312@gmail.com</strong></li>
-      <li>⚡ Fun fact <strong>I read people so well that sometimes you know their intentions before they do—like a mind game you never signed up for.</strong></li>
-    </ul>
-  </div>
-
-  <!-- Anime GIF on the right side -->
-  <div>
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="Anime GIF">
-  </div>
-</div>
+<!-- Use a table to align text (left) and GIF (right) -->
+<table>
+  <tr>
+    <td>
+      <!-- Left Side - Text Section -->
+      <ul>
+        <li>🔭 I’m currently working on <strong>SushiMan</strong></li>
+        <li>🌱 I’m currently learning <strong>Html, CSS, Javascript</strong></li>
+        <li>❤️ I'm Love to watch <strong>Anime</strong></li>
+        <li>📝 I regularly write articles on <a href="https://medium.com/@darshanx106">medium</a></li>
+        <li>💬 Ask me about <strong>Data Science</strong></li>
+        <li>📫 How to reach me <strong>ddarshan1312@gmail.com</strong></li>
+        <li>⚡ Fun fact <strong>I read people so well that sometimes you know their intentions before they do—like a mind game you never signed up for.</strong></li>
+      </ul>
+    </td>
+    <td align="center">
+      <!-- Right Side - GIF Section -->
+      <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" alt="Naruto Running">
+    </td>
+  </tr>
+</table>
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
