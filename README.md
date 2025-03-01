@@ -9,8 +9,6 @@
 
 - ❤️ I'm Love to watch **Anime**
 
-- 🤝 I’m looking for help with [Youtube Data Analysis](https://github.com/darshan106/Youtube-Data-Analysis)
-
 - 📝 I regularly write articles on [https://medium.com/@darshanx106](https://medium.com/@darshanx106)
 
 - 💬 Ask me about **Data Science**
