@@ -1,21 +1,30 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A free spirit with a deep mind, chasing truth, adventure, and meaning while staying a step ahead.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan106" alt="darshan106" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=darshan106" alt="darshan106" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **SushiMan**
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <ul>
+      <li>🔭 I’m currently working on <strong>SushiMan</strong></li>
+      <li>🌱 I’m currently learning <strong>Html, CSS, Javascript</strong></li>
+      <li>❤️ I'm Love to watch <strong>Anime</strong></li>
+      <li>📝 I regularly write articles on <a href="https://medium.com/@darshanx106">medium</a></li>
+      <li>💬 Ask me about <strong>Data Science</strong></li>
+      <li>📫 How to reach me <strong>ddarshan1312@gmail.com</strong></li>
+      <li>⚡ Fun fact <strong>I read people so well that sometimes you know their intentions before they do—like a mind game you never signed up for.</strong></li>
+    </ul>
+  </div>
 
-- 🌱 I’m currently learning **Html, CSS, Javascript**
-
-- ❤️ I'm Love to watch **Anime**
-
-- 📝 I regularly write articles on [medium](https://medium.com/@darshanx106)
-
-- 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **ddarshan1312@gmail.com**
-
-- ⚡ Fun fact **I read people so well that sometimes you know their intentions before they do—like a mind game you never signed up for.**
+  <!-- Anime GIF on the right side -->
+  <div>
+    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="Anime GIF">
+  </div>
+</div>
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
