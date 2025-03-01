@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A free spirit with a deep mind, chasing truth, adventure, and meaning while staying a step ahead.</h3>
 
-<p align="left"> 
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=darshan106" alt="darshan106" />
+    <img src="https://github-profile-trophy.vercel.app/?username=darshan106&theme=onedark" alt="darshan106" />
   </a>
 </p>
 
