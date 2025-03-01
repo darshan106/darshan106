@@ -9,7 +9,7 @@
 
 - ❤️ I'm Love to watch **Anime**
 
-- 📝 I regularly write articles on [https://medium.com/@darshanx106](https://medium.com/@darshanx106)
+- 📝 I regularly write articles on [medium](https://medium.com/@darshanx106)
 
 - 💬 Ask me about **Data Science**
 
