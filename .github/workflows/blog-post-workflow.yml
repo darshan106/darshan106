@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://medium.com/feed/@darshanx106"
+          feed_list: "https://medium.com/@darshanx106/understanding-gpus-from-a-to-z-51b52d62b1bf"
