@@ -16,7 +16,7 @@
         <li>🔭 I’m currently working on <strong>SushiMan</strong></li>
         <li>🌱 I’m currently learning <strong>Html, CSS, Javascript</strong></li>
         <li>❤️ I'm Love to watch <strong>Anime</strong></li>
-        <li>📝 I regularly write articles on <a href="https://medium.com/@darshanx106">Medium</a></li>
+        <li>📝 I write blogs on <a href="https://medium.com/@darshanx106">Medium</a></li>
         <li>💬 Ask me about <strong>Data Science</strong></li>
         <li>📫 How to reach me <strong>ddarshan1312@gmail.com</strong></li>
         <li>⚡ Fun fact <strong>I read people so well that sometimes you know their intentions before they do—like a mind game you never signed up for.</strong></li>
