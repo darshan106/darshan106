@@ -14,7 +14,7 @@
       <!-- Left Side - Text Section -->
       <ul>
         <li>🔭 I’m currently working on <strong>Xova</strong></li>
-        <li>🌱 I’m currently learning <strong>Tailwind Css, React,Js</strong></li>
+        <li>🌱 I’m currently learning <strong>Tailwind Css, React.Js</strong></li>
         <li>❤️ I'm Love to watch <strong>Anime</strong></li>
         <li>📝 I write blogs on <a href="https://medium.com/@darshanx106">Medium</a></li>
         <li>💬 Ask me about <strong>Data Science</strong></li>
