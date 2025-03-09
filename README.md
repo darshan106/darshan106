@@ -66,6 +66,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
+## Support:
 <table>
     <tr>
         <td>
@@ -75,32 +76,12 @@
         </td>
         <td>
             <h3 align="left">Anime Quote of the Day:</h3>
-            <p id="anime-quote" align="center"><em>Loading quote...</em></p>
+            <p id="anime-quote">
+                ![Anime Quote](https://raw.githubusercontent.com/darshan106/anime-quote/main/quote.svg)
+            </p>
         </td>
     </tr>
 </table>
-
-<script>
-    const quotes = [
-        "Believe in your own power. – Naruto Uzumaki (Naruto)",
-        "A person grows up when he has to, when he's forced to overcome his pain. – Jiraiya (Naruto)",
-        "Fear is not evil. It tells you what your weaknesses are. – Gildarts Clive (Fairy Tail)",
-        "Power comes in response to a need, not a desire. – Goku (Dragon Ball Z)",
-        "A lesson without pain is meaningless. – Edward Elric (Fullmetal Alchemist: Brotherhood)",
-        "Whether a fish lives in a clear stream or a water ditch, so long as it continues swimming forward, it will grow beautifully. – Koro Sensei (Assassination Classroom)",
-        "No matter how deep the night, it always turns to day. – Brook (One Piece)",
-        "A person becomes strong when they have someone they want to protect. – Haku (Naruto)",
-        "Whatever you do, enjoy it to the fullest. That is the secret of life. – Rider (Fate/Zero)",
-        "To know sorrow is not terrifying. What is terrifying is to know you can't go back to the happiness you could have had. – Matsumoto Rangiku (Bleach)"
-    ];
-
-    function getRandomQuote() {
-        const randomIndex = Math.floor(Math.random() * quotes.length);
-        document.getElementById('anime-quote').textContent = quotes[randomIndex];
-    }
-
-    window.onload = getRandomQuote;
-</script>
 
 <h3 align="left">Activities:</h3>
 <table>
