@@ -66,7 +66,6 @@
 </p>
 
 <h3 align="left">Support:</h3>
-## Support:
 <table>
     <tr>
         <td>
@@ -76,9 +75,7 @@
         </td>
         <td>
             <h3 align="left">Anime Quote of the Day:</h3>
-            <p id="anime-quote">
-                ![Anime Quote](https://raw.githubusercontent.com/darshan106/anime-quote/main/quote.svg)
-            </p>
+            <img src="https://raw.githubusercontent.com/darshan106/anime-quote/main/quote.svg" alt="Anime Quote" />
         </td>
     </tr>
 </table>
