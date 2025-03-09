@@ -66,11 +66,61 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/darshan.real" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="darshan.real" />
-    </a>
-</p>
+<table width="100%">
+    <tr>
+        <td align="left">
+            <h3>Support:</h3>
+            <p>
+                <a href="https://www.buymeacoffee.com/darshan.real" target="_blank">
+                    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="darshan.real" />
+                </a>
+            </p>
+        </td>
+        <td align="right">
+            <h3>Anime Quote of the Day:</h3>
+            <blockquote id="anime-quote" style="font-style: italic; color: #555;">
+                "A lesson without pain is meaningless. That's because you can't gain something without sacrificing something else in return." – Edward Elric (Fullmetal Alchemist: Brotherhood)
+            </blockquote>
+            <script>
+                const quotes = [
+                    "Believe in your own power. – Naruto Uzumaki (Naruto)",
+                    "A person grows up when he has to, when he's forced to overcome his pain. – Jiraiya (Naruto)",
+                    "Fear is not evil. It tells you what your weaknesses are. – Gildarts Clive (Fairy Tail)",
+                    "Power comes in response to a need, not a desire. – Goku (Dragon Ball Z)",
+                    "A lesson without pain is meaningless. That's because you can't gain something without sacrificing something else in return. – Edward Elric (Fullmetal Alchemist: Brotherhood)",
+                    "Whether a fish lives in a clear stream or a water ditch, so long as it continues swimming forward, it will grow up beautifully. – Koro Sensei (Assassination Classroom)",
+                    "No matter how deep the night, it always turns to day. – Brook (One Piece)",
+                    "A person becomes strong when they have someone they want to protect. – Haku (Naruto)",
+                    "In our society, letting others find out that you’re a nice person is a very risky move. – L (Death Note)",
+                    "Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. – Kenshin Himura (Rurouni Kenshin)",
+                    "The world isn’t perfect. But it’s there for us, trying the best it can. That’s what makes it so damn beautiful. – Roy Mustang (Fullmetal Alchemist: Brotherhood)",
+                    "Power is not the only thing that can defeat power. – Lelouch Lamperouge (Code Geass)",
+                    "You should enjoy the little detours. They may delay you, but you’ll make amazing memories. – Ging Freecss (Hunter x Hunter)",
+                    "Whatever you do, enjoy it to the fullest. That is the secret of life. – Rider (Fate/Zero)",
+                    "It's not the face that makes someone a monster; it's the choices they make with their lives. – Naruto Uzumaki (Naruto)",
+                    "The world isn’t beautiful, but that’s why it is. – Kino (Kino’s Journey)",
+                    "To know sorrow is not terrifying. What is terrifying is to know you can't go back to the happiness you could have had. – Matsumoto Rangiku (Bleach)",
+                    "Power comes in response to a need, not a desire. – Goku (Dragon Ball Z)",
+                    "You should enjoy the little detours. They may delay you, but you’ll make amazing memories. – Ging Freecss (Hunter x Hunter)",
+                    "A person grows up when he has to, when he's forced to overcome his pain. – Jiraiya (Naruto)",
+                    "A lesson without pain is meaningless. That's because you can't gain something without sacrificing something else in return. – Edward Elric (Fullmetal Alchemist: Brotherhood)",
+                    "It’s not the world that’s messed up; it’s those of us in it. – Ken Kaneki (Tokyo Ghoul)",
+                    "No matter how deep the night, it always turns to day. – Brook (One Piece)",
+                    "Sometimes, we have to look beyond what we want and do what’s best. – Piccolo (Dragon Ball Z)",
+                    "To know sorrow is not terrifying. What is terrifying is to know you can't go back to the happiness you could have had. – Matsumoto Rangiku (Bleach)",
+                    "Fear is freedom! Control is liberty! Contradiction is truth! That is the reality of this world! – Satsuki Kiryuuin (Kill la Kill)",
+                    "A person becomes strong when they have someone they want to protect. – Haku (Naruto)",
+                    "It's okay not to be okay, as long as you are not giving up. – Karen Aijou (Revue Starlight)",
+                    "In our society, letting others find out that you’re a nice person is a very risky move. – L (Death Note)",
+                    "Forgetting is like a wound. The wound may heal, but it has already left a scar. – Monkey D. Luffy (One Piece)"
+                ];
+
+                const today = new Date().getDate() % quotes.length;
+                document.getElementById("anime-quote").innerText = quotes[today];
+            </script>
+        </td>
+    </tr>
+</table>
 
 <h3 align="left">Activities:</h3>
 <table>
