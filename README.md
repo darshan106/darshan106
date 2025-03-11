@@ -71,16 +71,16 @@
 <h3 align="left">Support:</h3>
 <table>
     <tr>
-        <td>
+        <td align="center">
             <a href="https://www.buymeacoffee.com/darshan.real" target="_blank">
                 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="darshan.real" />
             </a>
         </td>
-        <td>
-            <h3 align="left">Anime Quote of the Day:</h3>
-            <p>
-                > "Hard work is worthless for those that don’t believe in themselves." - Naruto Uzumaki
-            </p>
+        <td align="center" style="padding-left: 15px;">
+            <h3>💬 Anime Quote of the Day:</h3>
+            <blockquote>
+                <p><em>"Hard work is worthless for those that don’t believe in themselves." - Naruto Uzumaki</em></p>
+            </blockquote>
         </td>
     </tr>
 </table>
