@@ -77,7 +77,7 @@
             </a>
         </td>
         <td align="center" style="padding-left: 15px;">
-            <h3>💬 Anime Quote of the Day:</h3>
+            <h4>💬 Anime Quote of the Day:</h4>
             <blockquote>
                 <p><em>"Hard work is worthless for those that don’t believe in themselves." - Naruto Uzumaki</em></p>
             </blockquote>
