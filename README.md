@@ -78,7 +78,9 @@
         </td>
         <td>
             <h3 align="left">Anime Quote of the Day:</h3>
-            <img src="https://raw.githubusercontent.com/darshan106/anime-quote/main/quote.svg" alt="Anime Quote" />
+            <p>
+                > "Hard work is worthless for those that don’t believe in themselves." - Naruto Uzumaki
+            </p>
         </td>
     </tr>
 </table>
