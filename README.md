@@ -69,7 +69,6 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<table>
     <tr>
         <td align="center">
             <a href="https://www.buymeacoffee.com/darshan.real" target="_blank">
@@ -77,7 +76,6 @@
             </a>
         </td>
     </tr>
-</table>
 
 <h3 align="left">Activities:</h3>
 <table>
