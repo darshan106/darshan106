@@ -31,6 +31,7 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [What is Data Science? &lpar;Explained like Baking a Cake &rpar;](https://medium.com/@darshanx106/what-is-data-science-explained-like-baking-a-cake-21c3e6ea73c2?source=rss-97a722ca7903------2)
 - [Understanding RAM: The Power Behind Your Machine’s Multitasking and Performance](https://medium.com/@darshanx106/understanding-ram-the-power-behind-your-machines-multitasking-and-performance-b340b42a2020?source=rss-97a722ca7903------2)
 - [Understanding GPUs: From A to Z](https://medium.com/@darshanx106/understanding-gpus-from-a-to-z-51b52d62b1bf?source=rss-97a722ca7903------2)
 - [Guide to Computer CPUs: Understanding Intel, AMD, and ARM Based Processors](https://medium.com/@darshanx106/guide-to-computer-cpus-understanding-intel-amd-and-arm-based-processors-786afde29d25?source=rss-97a722ca7903------2)
