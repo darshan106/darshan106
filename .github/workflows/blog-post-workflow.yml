@@ -10,7 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Set up Git credentials
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "5"
+          max_post_count: 5
           feed_list: "https://medium.com/feed/@darshanx106"
