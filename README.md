@@ -80,12 +80,12 @@
 
 <h3 align="left">Activities:</h3>
 <table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan106&show_icons=true&locale=en&layout=compact" alt="Most Used Languages - darshan106" />
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan106&" alt="GitHub Streak Stats - darshan106" />
-        </td>
-    </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan106&show_icons=true&locale=en&layout=compact&cache_seconds=1" alt="Most Used Languages - darshan106" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan106" alt="GitHub Streak Stats - darshan106" />
+    </td>
+  </tr>
 </table>
