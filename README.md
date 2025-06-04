@@ -78,9 +78,7 @@
         </td>
     </tr>
 
-<p align="center">
-  <strong>Glow Pulse on My Contributions ✨</strong>
-</p>
+<h3 align="left">Glow Pulse on My Contributions ✨:</h3>
 <p align="center">
   <!-- SVG will be updated by GitHub Actions -->
   <svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
