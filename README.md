@@ -78,6 +78,24 @@
         </td>
     </tr>
 
+<p align="center">
+  <strong>Glow Pulse on My Contributions ✨</strong>
+</p>
+<p align="center">
+  <!-- SVG will be updated by GitHub Actions -->
+  <svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .dot { fill: #00ff00; }
+      .glow { animation: glow 1.5s infinite ease-in-out; }
+      @keyframes glow {
+        0%, 100% { transform: scale(1); opacity: 0.5; }
+        50% { transform: scale(1.5); opacity: 1; }
+      }
+    </style>
+    <!-- Circles will be added here -->
+  </svg>
+</p>
+
 <h3 align="left">Activities:</h3>
 <table align="center">
   <tr>
