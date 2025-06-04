@@ -23,12 +23,21 @@ jobs:
         run: |
           # Extract the SVG content
           SVG_CONTENT=$(cat generated_svg.txt)
+          if [ -z "$SVG_CONTENT" ]; then
+            echo "Error: SVG content is empty. Check generate_glow.js output."
+            exit 1
+          fi
           
           # Escape special characters for sed
           SVG_ESCAPED=$(echo "$SVG_CONTENT" | sed 's/[&/\]/\\&/g')
           
-          # Update README.md by replacing the SVG section
-          sed -i '/<p align="center">.*Glow Pulse on My Contributions ✨.*<\/p>/,/<\/p>/c\<p align="center">\n    <strong>Glow Pulse on My Contributions ✨<\/strong>\n<\/p>\n<p align="center">\n'"$SVG_ESCAPED"'\n<\/p>' README.md
+          # Update README.md by replacing the Glow Pulse section
+          if ! grep -q "Glow Pulse on My Contributions" README.md; then
+            echo "Error: Glow Pulse section not found in README.md"
+            exit 1
+          fi
+          
+          sed -i '/<p align="center">\s*<strong>Glow Pulse on My Contributions ✨<\/strong>\s*<\/p>/,/<\/p>/c\<p align="center">\n  <strong>Glow Pulse on My Contributions ✨<\/strong>\n<\/p>\n<p align="center">\n'"$SVG_ESCAPED"'\n<\/p>' README.md
           
           # Check if there are changes
           if git diff --quiet; then
