@@ -28,6 +28,8 @@ async function fetchContributions() {
   });
 
   const data = await response.json();
+  console.log("API Response:", JSON.stringify(data, null, 2));
+
   if (!data.data || !data.data.user) {
     console.log("Using mock data due to API error...");
     return Array.from({ length: 52 * 7 }, (_, i) => ({
@@ -43,7 +45,14 @@ async function fetchContributions() {
 async function generateSVG() {
   try {
     const contributions = await fetchContributions();
+    if (!contributions || contributions.length === 0) {
+      throw new Error("No contribution data received.");
+    }
+
     const maxContributions = Math.max(...contributions.map(day => day.contributionCount));
+    if (maxContributions === 0) {
+      throw new Error("No non-zero contributions found.");
+    }
 
     let svg = `<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
       <style>
@@ -66,7 +75,6 @@ async function generateSVG() {
 
     svg += `</svg>`;
     
-    // Write SVG to a file
     fs.writeFileSync('generated_svg.txt', svg);
     console.log("SVG generated and saved to generated_svg.txt");
   } catch (error) {
